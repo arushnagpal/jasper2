@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+arushnagpal:
+  username: arushnagpal
+  name: Arush Nagpal
+  location: Bangalore, India
+  url_full: False
+  url: False
+  bio: A young technology enthusiast. I working as a software engineer at Walmart Labs in Bangalore. I love to code and build scalable applications. I hava passion to read and this time, I am up to write some interesting tech blogs.
+  picture: assets/images/arush.png
+  facebook: arush.nagpal
+  twitter: nagpal_arush
+  cover: False
